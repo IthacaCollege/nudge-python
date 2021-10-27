@@ -8,7 +8,7 @@
         "logo_path": "/Library/nudge/Resources/IC 2L Centered RGB.png",
         "main_subtitle_text": "A friendly reminder from your IT@IC team",
         "main_title_text": "macOS Update",
-        "minimum_os_sub_build_version": "19H1419",
+        "minimum_os_sub_build_version": "19H1519",
         "minimum_os_version": "10.15.7",
         "more_info_url": "https://ithaca.edu",
         "no_timer": false,
