@@ -20,7 +20,7 @@
         "screenshot_path": "/Library/nudge/Resources/update_ss.png",
         "timer_day_1": 7200,
         "timer_day_3": 14400,
-        "timer_elapsed": 1800,
+        "timer_elapsed": 900,
         "timer_final": 1800,
         "timer_initial": 28800,
         "update_minor": true,
