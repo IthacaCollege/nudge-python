@@ -2,7 +2,7 @@
     "preferences": {
         "button_title_text": "Ready to start the update?",
         "button_sub_titletext": "Click on the button below.",
-        "cut_off_date": "2022-04-20-00:00",
+        "cut_off_date": "2022-04-25-00:00",
         "cut_off_date_warning": 14,
         "days_between_notifications": 0,
         "logo_path": "/Library/nudge/Resources/IC 2L Centered RGB.png",
@@ -18,10 +18,10 @@
         "local_url_for_upgrade": "x-apple.systempreferences:com.apple.preferences.softwareupdate",
         "random_delay": true,
         "screenshot_path": "/Library/nudge/Resources/update_ss.png",
-        "timer_day_1": 1800,
-        "timer_day_3": 7200,
-        "timer_elapsed": 7200,
-        "timer_final": 600,
+        "timer_day_1": 7200,
+        "timer_day_3": 14400,
+        "timer_elapsed": 1800,
+        "timer_final": 1800,
         "timer_initial": 28800,
         "update_minor": true,
         "update_minor_days": 14
