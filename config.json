@@ -21,7 +21,7 @@
         "timer_day_1": 1800,
         "timer_day_3": 7200,
         "timer_elapsed": 7200,
-        "timer_final": 60,
+        "timer_final": 600,
         "timer_initial": 28800,
         "update_minor": true,
         "update_minor_days": 14
