@@ -5,7 +5,7 @@
         "cut_off_date": "2022-04-25-00:00",
         "cut_off_date_warning": 14,
         "days_between_notifications": 0,
-        "logo_path": "/Library/nudge/Resources/IC 2L Centered RGB.png",
+        "logo_path": "/Library/Ithaca/IC-Logo2L.png",
         "main_subtitle_text": "A friendly reminder from your IT@IC team",
         "main_title_text": "macOS needs an update",
         "minimum_os_version": "11.6.5",
